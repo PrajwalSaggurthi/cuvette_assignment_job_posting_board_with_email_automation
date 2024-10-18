@@ -1,0 +1,2 @@
+# cuvette_assignment_job_posting_board_with_email_automation
+Assignment for FullSatck Dev role
